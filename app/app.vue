@@ -7,7 +7,7 @@
       <button
         class="px-6 py-3 bg-white text-purple-700 font-semibold rounded-full shadow-md hover:bg-purple-100 transition"
       >
-        Click Me
+        Bấm vào đây
       </button>
     </div>
   </div>
